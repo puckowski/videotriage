@@ -84,7 +84,7 @@ request messages to the Keypoint Forensics servers than a human can reasonably
 produce in the same period of time by using a conventional on-line web browser 
 (except that Keypoint Forensics grants the operators of public search engines 
 revocable permission to use spiders to copy materials from 
-keypointforensics.blogspot.com for the sole purpose of and solely to the extent 
+KeypointForensics.com for the sole purpose of and solely to the extent 
 necessary for creating publicly available searchable indices of the materials, 
 but not caches or archives of such materials); (iii) transmitting spam, chain 
 letters, or other unsolicited email; (iv) attempting to interfere with, 
@@ -400,7 +400,7 @@ Attn: DMCA Notice
 Keypoint Forensics LLC
 Address: 505 N Main St #1440
 Naugatuck, CT 06770
-Email: keypointforensics@gmail.com
+Email: admin@keypointforensics.com
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS 
 INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL 
@@ -568,7 +568,7 @@ B. Arbitration
 READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR 
 DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM COMPANY. For 
 any dispute with Keypoint Forensics, you agree to first contact us at 
-keypointforensics@gmail.com and attempt to resolve the dispute with us 
+admin@keypointforensics.com and attempt to resolve the dispute with us 
 informally. Nothing in this Section shall be deemed as preventing Keypoint 
 Forensics from seeking injunctive or other equitable relief from the courts as 
 necessary to prevent the actual or threatened infringement, misappropriation, 
@@ -637,7 +637,7 @@ waiver of such right or provision.
 
 E. Contact
 
-Please contact us keypointforensics@gmail.com with any questions regarding this 
+Please contact us admin@keypointforensics.com with any questions regarding this 
 Agreement.
 
 This Agreement was last modified on August 3, 2017.
